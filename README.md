@@ -10,4 +10,4 @@ If you are new to pwn and only just heard the terms "pwntools" and "gdb/pwndbg" 
 The difficulty will increase with each of the chapters but each chapter is also marked with our own difficulty scale.
 
 Best regards,  
-Cl1nical - 0-Day Aarhus
+Cl1nical, 0-Day Aarhus
