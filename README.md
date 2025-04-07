@@ -9,5 +9,5 @@ For each PwnShop there will be a video recording where the core concepts as well
 If you are new to pwn and only just heard the terms "pwntools" and "gdb/pwndbg" I would recommend that you start from chapter one.
 The difficulty will increase with each of the chapters but each chapter is also marked with our own difficulty scale.
 
-Best regards,
+Best regards,  
 Cl1nical - 0-Day Aarhus
