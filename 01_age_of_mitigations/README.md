@@ -10,7 +10,7 @@ These include but are not limited to:
 4. PIE (Position Independent Executable)
 
 ### Operating system
-Option 1: Setup your own machine (bare metal or vm) with ubuntu 24 LTS (latest stable version) and install pwntools, pwndbg and vim.
+Option 1: Setup your own machine (bare metal or vm) with ubuntu 24 LTS (latest stable version) and install pwntools, pwndbg and vim.  
 Option 2: Use the provided vm for Hypver-V (for Windows hosts). 
 
 ### Expected outcome
