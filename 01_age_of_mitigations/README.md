@@ -11,7 +11,7 @@ These include but are not limited to:
 
 ### Operating system
 Option 1: Setup your own machine (bare metal or vm) with ubuntu 24 LTS (latest stable version) and install pwntools, pwndbg and vim.  
-Option 2: Use the provided vm for Hypver-V (for Windows hosts). 
+Option 2: Use the provided vm for Hypver-V (for Windows hosts).   
 
 ### Expected outcome
 After this course the participant will be able to:
