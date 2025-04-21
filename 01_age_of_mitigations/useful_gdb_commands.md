@@ -58,4 +58,7 @@ vis -a
 ### Show heap bins
 bins
 
+### Info fram (can show you rbp and ret addr on the stack)
+i f
+
 
