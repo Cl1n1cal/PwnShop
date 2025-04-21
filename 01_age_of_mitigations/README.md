@@ -4,8 +4,8 @@ Discover the different binary exploitation mitigations on Linux!
 ### Description
 In chapter one of PwnShop we will discover the primary binary exploitation mitigations on ELF 64-bit binaries.
 These include but are not limited to:
-1. NX (Non-executable stack)
-2. Stack ASLR
+1. Stack ASLR
+2. NX (Non-executable stack)
 3. Stack Canary
 4. PIE (Position Independent Executable)
 
