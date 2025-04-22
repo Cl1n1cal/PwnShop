@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from pwn import *
 
-elf = context.binary = ELF("chall_00")
+elf = context.binary = ELF("../chall_00")
 
 gs = '''
 b main
